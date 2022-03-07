@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+# Netlify Deployed Link
+
+https://agitated-wiles-2c669d.netlify.app
+
+# Heroku Deployed Link
+
+https://chatwithme-be.herokuapp.com/
+
+# Backend github Link
+
+https://github.com/Suryahbk/chatwithme-backend
+
+# Admin Login
+
+username: Surya@gmail.com 
+password: 123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
